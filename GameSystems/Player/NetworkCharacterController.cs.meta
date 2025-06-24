@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c369ebf2bec66fa4e92a98e180532efc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _characterMovementConfig: {fileID: 11400000, guid: b5ff9869898428a4a9c5edae1fb73237, type: 2}
+  - _characterInputConfig: {fileID: 11400000, guid: f72a24cdfa51a034589ef0dfbb84d517, type: 2}
+  - _cameraControlConfig: {fileID: 11400000, guid: bed156e955375284b8523c4c89a83867, type: 2}
+  - _characterHealthConfig: {fileID: 11400000, guid: 5e170fc6ac80647418441b9d2c4bfa5a, type: 2}
+  - _camera: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
