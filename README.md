@@ -1,15 +1,17 @@
-# Multiplayer shooter with good graphics on Unity and network framework Photon Pun 
+# This game, created in Unity, is about online war between players with the ability to communicate with players using chat
 
 ## About the project
-This is a session-based shooter developed in Unity using the Photon Pun network framework. Players can create their own session or join an existing one, navigate a small map with a custom physics controller, use power-ups, and fire a rocket launcher at other players.
+This session-based shooter, developed in the Unity engine using the Photon Fusion network framework, is significantly technologically advanced compared to its predecessor, Photon Pun. It includes a registration and authorization system for entering the game, the ability to communicate with other players via chat, a weapon pickup mechanic, and a small but expandable inventory
 
 ## What has been implemented
-- Weapon and shooting system with network hit synchronization;
-- Character health, damage, and respawn system;
-- Synchronization of player positions, animations, and rotations;
-- HUD interface with health and stamina;
-- Room join menu and matchmaking via Photon;
-- Optimized state transfer for minimal network latency
+- Implemented network logic, shooting mechanics, weapon interactions, chat, character controller, and system synchronization;
+- Performance optimization and basic project structure;
+- Network logic with prediction and interpolation for smooth multiplayer;
+- Shooting and weapon interaction system;
+- Built-in player-to-player chat;
+- Character controller with network synchronization;
+- Architecture separating client and server logic;
+- Performance optimization and code structuring for project scalability
 
 ## How to play
 
@@ -22,25 +24,38 @@ Destroy other players
 - **Shift** — run
 - **RMB** — shoot
 - **R** — reload
+- **E** — pick up a weapon
+- **Q** — throw down the weapon
+- **T** — open chat
+- **F1** — close chat
+- **Enter** — send message
+- **Esc** — open game menu
 
 ### Gameplay
-1. Create a room or join an existing one.
-2. After the map loads, a character will appear.
-3. Use the flare gun to eliminate opponents.
-4. The player with the most kills wins.
+1. Register in the game (login, password, repeat password, and email). All fields are validated and verified through Firebase. You can also remember yourself so you don't have to enter your details every time you log in.
+
+2. After registering, the screen will turn yellow and you can log in. You'll see the main menu, where you can click "Start Game," "Settings," where you can adjust the volume of sounds and music, and the "Exit" button, which closes the game and "Logout" button to log out of your account.
+
+3. After clicking "Start Game," you'll see a field where you can enter a session (room) name. If such a session doesn't exist, it will be created automatically and load the game scene.
+
+4. You've entered the game and can see the scattered weapons. You can pick them up with "E," shoot with the left mouse button, and reload by pressing "R." The "Q" key releases weapons. You can also chat with other players by pressing the "T" key. This will open the chat window, allowing you to type a message and see both your own and other players' messages. To close the chat, press "F1." To open the game menu, press "Escape." Enjoy the game!
 
 ## Technologies
 - Unity 6
 - C#
-- Photon Pun 
+- Photon Fusion
+- Firebase
 
 ## Architecture
 - MVC
 - Event-driven
 - ScriptableObjects
 - Facade
+- Strategy
+- Observer
 - OOP
 - EntryPoint
+- Proxy
 
 ## Screenshots
 
