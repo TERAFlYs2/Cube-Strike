@@ -59,35 +59,34 @@ Destroy other players
 
 ## Screenshots
 
-<img width="1280" height="720" alt="photo_2025-07-03_12-29-49" src="https://github.com/user-attachments/assets/8465fef4-1899-40cf-89f7-1e7047ca3578" />
+<img width="962" height="713" alt="image23" src="https://github.com/user-attachments/assets/06c2be75-be43-4dd8-96eb-a94295b12609" />
+
+Registration menu
+
+
+<img width="1280" height="720" alt="photo_2025-07-03_12-18-43" src="https://github.com/user-attachments/assets/b1878f49-ccf4-4191-ae99-d2a3a117bfe5" />
+
+Authorization menu
+
+
+<img width="1280" height="720" alt="photo_2025-07-03_12-19-14" src="https://github.com/user-attachments/assets/f08f2536-2f9c-4416-ba55-6c06f416f427" />
 
 Main menu
 
 
-<img width="1280" height="720" alt="photo_2025-07-03_12-29-53" src="https://github.com/user-attachments/assets/aeba228c-86a5-44bb-bfd6-15485e35be9a" />
+<img width="1280" height="720" alt="photo_2025-07-03_12-19-18" src="https://github.com/user-attachments/assets/e7adad1e-1ba9-4937-9d8d-1185bf52b6d2" />
 
-Session search menu
-
-
-<img width="1280" height="512" alt="photo_2025-
-07-03_12-29-56" src="https://github.com/user-attachments/assets/d3ad48f0-adbf-4d66-ab65-602344562718" />
-
-Demonstration of the scene and interface of the health and stamina hood
+Menu for creating and connecting to sessions
 
 
-<img width="1280" height="524" alt="photo_2025-07-03_12-30-04" src="https://github.com/user-attachments/assets/5d8140e8-e844-410e-adf5-261a485b85d2" />
+<img width="1280" height="468" alt="photo_2025-07-03_12-19-25" src="https://github.com/user-attachments/assets/97e3612b-ee49-4162-baab-361e028b8dab" />
 
-Demonstration of a shot and explosion from a bazooka, and damage to the player
-
-
-<img width="1280" height="526" alt="photo_2025-07-03_12-30-10" src="https://github.com/user-attachments/assets/7865ed2d-bc39-4bd8-8591-c0761edc7544" />
-
-A frame of a flying projectile and correct processing of the physics of fast projectiles and synchronization
+Demonstration of the game scene, HUD and chat between players
 
 
 ## Video demonstration
 
-https://drive.google.com/drive/folders/1wO48FAtIYbDhtdgvaGRRWf-7AJDCAuCf?usp=sharing
+
 
 
 
