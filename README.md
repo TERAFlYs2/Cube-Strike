@@ -22,7 +22,7 @@ Destroy other players
 - **WASD** — move
 - **Space** — jump
 - **Shift** — run
-- **RMB** — shoot
+- **LMB** — shoot
 - **R** — reload
 - **E** — pick up a weapon
 - **Q** — throw down the weapon
