@@ -45,6 +45,7 @@ Destroy other players
 - C#
 - Photon Fusion
 - Firebase
+- DOTween
 
 ## Architecture
 - MVC
