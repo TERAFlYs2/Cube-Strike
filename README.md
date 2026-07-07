@@ -87,6 +87,8 @@ Demonstration of the game scene, HUD and chat between players
 
 ## Video demonstration
 
+https://drive.google.com/drive/folders/1VeZaT56SrITuUIBeXXgfGLgfq2CN4Zpz?usp=sharing
+
 
 
 
